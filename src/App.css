@@ -1,0 +1,26 @@
+.App{
+  width: 100%;
+  height: 100vh;
+  font-size: 18px;
+}
+header{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  color: #fff;
+  background-color: #1d1d1d;
+  align-items: center;
+}
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 30px;
+}
+nav ul li a{
+  color: #fff;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+nav ul li a:hover{
+  color: rgb(113, 236, 113);
+}
