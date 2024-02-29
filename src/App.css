@@ -20,7 +20,7 @@ header {
   background: black;
   color: white;
   height: 90px;
-  position: fixed;
+  /* position: fixed; */
   z-index: 10;
 }
 
